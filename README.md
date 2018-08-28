@@ -30,7 +30,7 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
-|1              |11 August 2018(Tentative)|To be Announced|IIIT Bhubaneswar|
+|1              |6 August 2018(Tentative)|[Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
 ### Contact
 Questions, comments, or concerns? Get in touch!
 - **Sai Amrit Patnaik :** [patnaiksai1234@gmail.com](mailto:patnaiksai1234@gmail.com)
