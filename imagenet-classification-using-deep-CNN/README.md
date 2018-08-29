@@ -1,4 +1,5 @@
-- PWL @ Bhubaneswar #1
+- PWL @ Bhubaneswar [#1](https://www.facebook.com/events/245420516160893/)
 - Paper: [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-- Date: 6th September, 2018
-- Presenters: Himansu Didwania, Sai Amrit Patnaik
+- Date: 8th September, 2018
+- Presenters: Sai Amrit Patnaik,  Sthita Pragyan Pujari, Himansu Didwania, Shivank Pathak
+- Location: IIIT Bhubaneswar
