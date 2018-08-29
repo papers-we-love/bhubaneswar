@@ -18,7 +18,7 @@ You can find previous PWL presentations on [YouTube](https://www.youtube.com/use
 
 ### Who are we?
 
-We are a bunch of undergrads who like to dabble into all things in computer science. This chapter is managed by the IIIT-Bh research wing. Whether you're a new computer science student or a professional, we welcome you to join us–the only requirements are respect and an eagerness to learn!
+We are a bunch of undergrads who like to dabble into all things in computer science. This chapter is managed by the IIIT-Bh Tech Society's Research Wing. Whether you're a new computer science student or a professional, we welcome you to join us–the only requirements are respect and an eagerness to learn!
 
 ### Want to present?
 
@@ -34,6 +34,6 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 ### Contact
 Questions, comments, or concerns? Get in touch!
 - **Shivank Pathak :** [shivankpathak357@gmail.com](mailto:shivankpathak357@gmail.com)
-- **Shaswat Satapathy :** []()
+- **Shaswat Satapathy :** [shaswat221b@gmail.com](mailto:shaswat221b@gmail.com)
 - **Abhipsha Das :** [abhipsha.das16@gmail.com ](mailto:abhipsha.das16@gmail.com )
-- **Himanshu Didwania :** [hdidwania1997@gmail.com](mailto:hdidwania1997@gmail.com)
+- **Himansu Didwania :** [hdidwania1997@gmail.com](mailto:hdidwania1997@gmail.com)
