@@ -30,16 +30,10 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
-|1              |6 August 2018|[Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
+|1              |8 August 2018|[Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
 ### Contact
 Questions, comments, or concerns? Get in touch!
-- **Sai Amrit Patnaik :** [patnaiksai1234@gmail.com](mailto:patnaiksai1234@gmail.com)
-- **Shubham Rath :** [shubhamrath.iiitb@gmail.com](mailto:shubhamrath.iiitb@gmail.com)
 - **Shivank Pathak :** [shivankpathak357@gmail.com](mailto:shivankpathak357@gmail.com)
+- **Shaswat Satapathy :** []()
+- **Abhipsha Das :** [abhipsha.das16@gmail.com ](mailto:abhipsha.das16@gmail.com )
 - **Himanshu Didwania :** [hdidwania1997@gmail.com](mailto:hdidwania1997@gmail.com)
-- **Palash Nigam :** [npalash25@gmail.com](mailto:npalash25@gmail.com)
-- **Ayush Shridhar:** [ayush.shridhar1999@gmail.com](mailto:ayush.shridhar1999@gmail.com)
-- **Arijeet Satapathy :** [arijeetsat@gmail.com](mailto:arijeetsat@gmail.com)
-- **Abhishek Patel :** [abhishek.jbp121@gmail.com](mailto:abhishek.jbp121@gmail.com)
-- **Swapnil Sourabh :** [swapnil1108@gmail.com](mailto:swapnil1108@gmail.com)
-- **Ravi Teja Gannavarapu :** [grt4004@gmail.com](mailto:grt4004@gmail.com)
