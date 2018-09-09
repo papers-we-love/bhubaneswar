@@ -34,6 +34,7 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
+|---------------|-------------|------------|------------|
 |2| TBD | TBD | TBD |
 
 ### Contact
