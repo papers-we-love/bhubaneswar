@@ -1,0 +1,5 @@
+- PWL @ Bhubaneswar [#2](https://www.facebook.com/groups/pwlbbsr/)
+- Paper: [Opportunities and Challenges for Quantum assisted Machine Learning in near-term quantum computers](https://arxiv.org/pdf/1708.09757.pdf)
+- Date: 16th September, 2018
+- Presenters: Ankit Jha
+- Location: IIIT Bhubaneswar
