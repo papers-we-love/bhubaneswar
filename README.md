@@ -30,7 +30,7 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 ### Past Meetups
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
-|1| 8 August 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
+|1| 8 September 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
 
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
