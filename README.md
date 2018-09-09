@@ -37,6 +37,9 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 |---------------|-------------|------------|------------|
 |2| TBD | TBD | TBD |
 
+=======
+|1| 8 September 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
+
 ### Contact
 Questions, comments, or concerns? Get in touch!
 - **Shivank Pathak :** [shivankpathak357@gmail.com](mailto:shivankpathak357@gmail.com)
