@@ -37,6 +37,7 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 |---------------|-------------|------------|------------|
 |2| 16 September 2018 | [Opportunities and Challenges for Quantum assisted Machine Learning in near-term quantum computers](https://github.com/hdidwania/bhubaneswar/tree/master/02%20opportunities-challenges-for-QaML-in-near-term-quantum-computers) | IIIT Bhubaneswar |
 
+
 ### Contact
 Questions, comments, or concerns? Get in touch!
 - **Shivank Pathak :** [shivankpathak357@gmail.com](mailto:shivankpathak357@gmail.com)
