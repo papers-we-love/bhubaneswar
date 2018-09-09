@@ -33,6 +33,8 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 |1| 8 August 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
 
 ### Upcoming Meetups
+| Meetup number | Date        | Paper      | Venue|
+|2| TBD | TBD | TBD |
 
 ### Contact
 Questions, comments, or concerns? Get in touch!
