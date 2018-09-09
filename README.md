@@ -27,10 +27,19 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 - New to academic papers? Here's how to [read a paper](https://github.com/papers-we-love/papers-we-love#how-to-read-a-paper)
 - Feel free to contact one of the organizers with any questions
 
+### Past Meetups
+| Meetup number | Date        | Paper      | Venue|
+|---------------|-------------|------------|------------|
+|1| 8 August 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
+
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
+|2| TBD | TBD | TBD |
+
+=======
 |1| 8 September 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
+
 ### Contact
 Questions, comments, or concerns? Get in touch!
 - **Shivank Pathak :** [shivankpathak357@gmail.com](mailto:shivankpathak357@gmail.com)
