@@ -37,7 +37,7 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
-|3| 3 October 2018 | [New Directions in Crytography](https://github.com/papers-we-love/bhubaneswar/) | IIIT Bhubaneswar |
+|3| 3 October 2018 | [New Directions in Crytography](https://github.com/papers-we-love/bhubaneswar/tree/master/03-new-directions-in-cryptography) | IIIT Bhubaneswar |
 
 
 ### Contact
