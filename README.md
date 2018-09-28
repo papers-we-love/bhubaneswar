@@ -31,11 +31,13 @@ We are a bunch of undergrads who like to dabble into all things in computer scie
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
 |1| 8 September 2018 | [Imagenet Classification using Deep CNN](https://github.com/papers-we-love/bhubaneswar/tree/master/01-imagenet-classification-using-deep-CNN)|IIIT Bhubaneswar|
+|2| 16 September 2018 | [Opportunities and Challenges for Quantum assisted Machine Learning in near-term quantum computers](https://github.com/papers-we-love/bhubaneswar/tree/master/02-opportunities-challenges-for-QaML-in-near-term-quantum-computers) | IIIT Bhubaneswar |
+
 
 ### Upcoming Meetups
 | Meetup number | Date        | Paper      | Venue|
 |---------------|-------------|------------|------------|
-|2| 16 September 2018 | [Opportunities and Challenges for Quantum assisted Machine Learning in near-term quantum computers](https://github.com/papers-we-love/bhubaneswar/tree/master/02-opportunities-challenges-for-QaML-in-near-term-quantum-computers) | IIIT Bhubaneswar |
+|3| 3 October 2018 | [New Directions in Crytography](https://github.com/papers-we-love/bhubaneswar/) | IIIT Bhubaneswar |
 
 
 ### Contact
