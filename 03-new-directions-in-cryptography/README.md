@@ -1,4 +1,4 @@
-- PWL @ Bhubaneswar [#3](https://www.facebook.com/groups/pwlbbsr/)
+- PWL @ Bhubaneswar [#3](https://www.facebook.com/events/498797470602752/)
 - Paper: [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf)
 - Date: 3rd October, 2018
 - Presenters: Gopinath Das
